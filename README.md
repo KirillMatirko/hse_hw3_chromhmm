@@ -1,6 +1,5 @@
 ## hse_hw3_chromhmm
 
-#### Ссылка на Colab: https://colab.research.google.com/drive/1lgIn_Z1Kb2qGEQlbFAQgYFiIq64Avqbh?usp=sharing
 
 Была выбрана линия HUVEC, потому что HUES64 в таблице не было.
 
