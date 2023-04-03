@@ -2,7 +2,21 @@
 
 #### Ссылка на Colab: https://colab.research.google.com/drive/1lgIn_Z1Kb2qGEQlbFAQgYFiIq64Avqbh?usp=sharing
 
-### 1. Таблица cellmarkfiletable
+### 1. Гистоновые метки
+| Гистоновая метка | Файл |
+|:-------:|:----------------:|
+| H2az | wgEncodeBroadHistoneHuvecH2azAlnRep1.bam |
+| H3k27ac | wgEncodeBroadHistoneHuvecH3k27acStdAlnRep1.bam |
+| H3k27me3 | wgEncodeBroadHistoneHuvecH3k27me3StdAlnRep1.bam |
+| H3k36me3 | wgEncodeBroadHistoneHuvecH3k36me3StdAlnRep1.bam |
+| H3k4me1 | wgEncodeBroadHistoneHuvecH3k4me1StdAlnRep1.bam |
+| H3k4me2 | wgEncodeBroadHistoneHuvecH3k4me2StdAlnRep1.bam |
+| H3k4me3 | wgEncodeBroadHistoneHuvecH3k4me3StdAlnRep1.bam |
+| H3k79me2 | wgEncodeBroadHistoneHuvecH3k79me2AlnRep1 |
+| H3k9ac | wgEncodeBroadHistoneHuvecH3k9acStdAlnRep1 |
+| H3k9me1 | wgEncodeBroadHistoneHuvecH3k9me1StdAlnRep1.bam |
+
+### 2. Таблица cellmarkfiletable
 | Клеточная линия | Гистоновая метка | Файл | Контрольный файл |
 |:----------:|:-------:|:----------------:|:----------------:|
 | HUVEC | H3k9ac | H3k9ac.bam | Control.bam |
