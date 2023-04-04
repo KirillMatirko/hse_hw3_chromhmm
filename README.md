@@ -61,3 +61,32 @@
 
 
 Ссылка на отредактированный bed-файл: https://drive.google.com/drive/folders/1gAB0YeoWUMGtVO0kz9deA54vj-CK0KMb?usp=share_link
+
+Ниже команды из бонусной части. Все другие команды из основной части так же есть в колабе.
+
+```python
+annotation = ['1_Heterochromatin',
+          '2_Polycomb-repressed',
+          '3_Inactive_Promoter',
+          '4_Weak_Promoter',
+          '5_Active_Promoter',
+          '6_Strong_Enhancer',
+          '7_Weak_Enhancer',
+          '8_Weak_Enhancer',
+          '9_Weak_Txn',
+          '10_Txn_elongation']
+          
+!head HUVEC_10_dense.bed
+
+with open('HUVEC_10_dense.bed','r') as f:
+  lines = f.readlines()
+  with open('HUVEC_10_dense_edited.bed','w') as new_f:
+    new_f.write(lines[0])
+    for i in range(1,len(lines)):
+      line = lines[i].split('\t')
+      N = int(line[3]) - 1
+      line[3] = annotation[N]
+      new_f.write('\t'.join(line))
+  
+!head HUVEC_10_dense_edited.bed
+```
