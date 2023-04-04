@@ -44,8 +44,8 @@
 
 | Номер | Характерные метки | Где проявляется | UCSC browser |
 |:---:|:------------:|:---------:|:--------------------------------------------------------:|
-| 1 | Нет характерных меток | Ядерная ламина | <img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/1.png" width="500" height="250"> |
-| 2 | H32K7me3 | Ядерная ламина | <img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/2.png" width="500" height="250"> |
+| 1_Repetitive | Нет характерных меток | Ядерная ламина | <img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/1.png" width="500" height="250"> |
+| 2_Heterochromatin | H32K7me3 | Ядерная ламина | <img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/2.png" width="500" height="250"> |
 | 3 | Сильнее всего выражен в H32K7me3, слабее в H2AZ,H3K34me3, H3K4me2, H3K36me3| Слабо проявляется в экзонах, CpG островках, TSS и TES| <img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/3.png" width="500" height="250"> |
 | 4 | H2AZ | CpG-островки, экзоны и TSS | <img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/4.png" width="500" height="250"> |
 | 5 | H2AZ, H3K4me3, H3K9ac, H3K27ac, H3K4me1, H3K4me2, H3K79me2 | CpG-островки, экзоны, TSS, TES и TSSkb |<img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/5.png" width="500" height="250"> |
