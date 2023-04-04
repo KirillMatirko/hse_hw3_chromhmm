@@ -18,7 +18,7 @@
 | H3k9ac | wgEncodeBroadHistoneHuvecH3k9acStdAlnRep1 |
 | H3k9me1 | wgEncodeBroadHistoneHuvecH3k9me1StdAlnRep1.bam |
 
-### 2. Таблица cellmarkfiletable
+### 2. Таблица cellmarkfiletable (папка data)
 | Клеточная линия | Гистоновая метка | Файл | Контрольный файл |
 |:----------:|:-------:|:----------------:|:----------------:|
 | HUVEC | H3k9ac | H3k9ac.bam | Control.bam |
