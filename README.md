@@ -79,8 +79,8 @@ annotation = ['1_Heterochromatin',
 
 ```bash
 !head HUVEC_10_dense.bed
-``
-``
+```
+
 ```python
 with open('HUVEC_10_dense.bed','r') as f:
   lines = f.readlines()
@@ -91,9 +91,9 @@ with open('HUVEC_10_dense.bed','r') as f:
       N = int(line[3]) - 1
       line[3] = annotation[N]
       new_f.write('\t'.join(line))
-````
+```
 
-````bash
+```bash
 !head HUVEC_10_dense_edited.bed
 ```
 
