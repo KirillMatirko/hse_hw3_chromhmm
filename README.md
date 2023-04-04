@@ -31,3 +31,7 @@
 | HUVEC | H3k27me3 | H3k27me3.bam | Control.bam |
 | HUVEC | H3k9me1 | H3k9me1.bam | Control.bam |
 | HUVEC | H3k36me3 | H3k36me3.bam | Control.bam |
+
+### 3. Картинки из отчёта ChromHMM
+
+<img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/chromhmm_emission.png" width="250" height="170">
