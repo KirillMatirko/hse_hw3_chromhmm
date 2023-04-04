@@ -41,3 +41,16 @@
 
 
 ### 4. Таблица с эпигенетическими типами
+
+| Номер | Свойства | UCSC browser |
+|:-------:|:----------------:|:-------------:|
+| 1 | wgEncodeBroadHistoneHuvecH2azAlnRep1.bam |<img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/1.png" width="200" height="150"> |
+| 2 | wgEncodeBroadHistoneHuvecH3k27acStdAlnRep1.bam | |
+| 3 | wgEncodeBroadHistoneHuvecH3k27me3StdAlnRep1.bam | |
+| 4 | wgEncodeBroadHistoneHuvecH3k36me3StdAlnRep1.bam | |
+| 5 | wgEncodeBroadHistoneHuvecH3k4me1StdAlnRep1.bam | |
+| 6 | wgEncodeBroadHistoneHuvecH3k4me2StdAlnRep1.bam | |
+| 7 | wgEncodeBroadHistoneHuvecH3k4me3StdAlnRep1.bam | |
+| 8 | wgEncodeBroadHistoneHuvecH3k79me2AlnRep1 | |
+| 9 | wgEncodeBroadHistoneHuvecH3k9acStdAlnRep1 | |
+| 10 | wgEncodeBroadHistoneHuvecH3k9me1StdAlnRep1.bam | |
