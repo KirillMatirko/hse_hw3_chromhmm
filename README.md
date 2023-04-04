@@ -44,13 +44,13 @@
 
 | Номер | Свойства | UCSC browser |
 |:-------:|:----------------:|:-------------:|
-| 1 | wgEncodeBroadHistoneHuvecH2azAlnRep1.bam |<img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/1.png" width="200" height="150"> |
-| 2 | wgEncodeBroadHistoneHuvecH3k27acStdAlnRep1.bam | |
-| 3 | wgEncodeBroadHistoneHuvecH3k27me3StdAlnRep1.bam | |
-| 4 | wgEncodeBroadHistoneHuvecH3k36me3StdAlnRep1.bam | |
-| 5 | wgEncodeBroadHistoneHuvecH3k4me1StdAlnRep1.bam | |
-| 6 | wgEncodeBroadHistoneHuvecH3k4me2StdAlnRep1.bam | |
-| 7 | wgEncodeBroadHistoneHuvecH3k4me3StdAlnRep1.bam | |
-| 8 | wgEncodeBroadHistoneHuvecH3k79me2AlnRep1 | |
-| 9 | wgEncodeBroadHistoneHuvecH3k9acStdAlnRep1 | |
-| 10 | wgEncodeBroadHistoneHuvecH3k9me1StdAlnRep1.bam | |
+| 1 | | <img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/1.png" width="200" height="150"> |
+| 2 | | <img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/2.png" width="200" height="150"> |
+| 3 | | <img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/3.png" width="200" height="150"> |
+| 4 |  | <img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/4.png" width="200" height="150"> |
+| 5 | | <img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/5.png" width="200" height="150"> |
+| 6 | | <img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/6.png" width="200" height="150"> |
+| 7 | | <img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/7.png" width="200" height="150"> |
+| 8 | | <img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/8.png" width="200" height="150"> |
+| 9 | | <img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/9.png" width="200" height="150"> |
+| 10 | | <img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/10.png" width="200" height="150"> |
