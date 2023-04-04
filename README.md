@@ -34,4 +34,4 @@
 
 ### 3. Картинки из отчёта ChromHMM
 
-<img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/chromhmm_emission.png" width="250" height="170">
+<img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/chromhmm_emission.png" width="350" height="300">
