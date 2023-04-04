@@ -43,7 +43,7 @@
 ### 4. Таблица с эпигенетическими типами
 
 | Номер | Характерные метки | Где проявляется | UCSC browser |
-|:-------:|:----------------:|:-------------:|:-------------:|
+|:---:|:------------:|:---------:|:--------------------------------------------------------:|
 | 1 | Нет характерных меток | Ядерная ламина | <img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/1.png" width="200" height="150"> |
 | 2 | H32K7me3 | Ядерная ламина | <img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/2.png" width="200" height="150"> |
 | 3 | Сильнее всего выражен в H32K7me3, слабее в H2AZ, H3K34me3, H3K4me2, H3K36me3| Слабо проявляется в экзонах, CpG островках, TSS и TES| <img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/3.png" width="200" height="150"> |
