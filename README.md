@@ -90,3 +90,4 @@ with open('HUVEC_10_dense.bed','r') as f:
   
 !head HUVEC_10_dense_edited.bed
 ```
+<img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/states_with_annotation.png" width="500" height="600">
