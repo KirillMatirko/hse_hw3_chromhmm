@@ -57,4 +57,7 @@
 
 ### 5. Бонус
 
+Присвоенные имена состояний указаны в таблице выше. Опирался на коллекцию типов в UCSC браузере для линии HUVEC.
+
+
 Ссылка на отредактированный bed-файл: https://drive.google.com/drive/folders/1gAB0YeoWUMGtVO0kz9deA54vj-CK0KMb?usp=share_link
