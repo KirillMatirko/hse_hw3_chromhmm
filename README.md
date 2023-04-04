@@ -36,4 +36,8 @@
 
 <img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/chromhmm_emission.png" width="300" height="350"> <img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/chromhmm_transition.png" width="300" height="350"> <img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/chromhmm_state.png" width="300" height="350"> 
 
-<img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/chromhmm_tss.png" width="500" height="350"> <img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/chromhmm_tes.png" width="500" height="350"> 
+<img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/chromhmm_tss.png" width="500" height="350"> <img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/chromhmm_tes.png" width="500" height="350">
+
+
+
+### 4. Таблица с эпигенетическими типами
