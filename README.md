@@ -54,3 +54,7 @@
 | 8_Weak_Enhancer | H3K4me1, HeK79me2 | Гены |<img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/8.png" width="500" height="250"> |
 | 9_Weak_Txn | HeK79me2 | Гены |<img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/9.png" width="500" height="250"> |
 | 10_Txn_elongation | Очень слабо выражен в H3K36me3 | Экзоны, гены, TES|<img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/10.png" width="500" height="250"> |
+
+### 5. Бонус
+
+Ссылка на отредактированный bed-файл: https://drive.google.com/drive/folders/1gAB0YeoWUMGtVO0kz9deA54vj-CK0KMb?usp=share_link
