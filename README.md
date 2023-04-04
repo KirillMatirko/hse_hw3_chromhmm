@@ -75,9 +75,13 @@ annotation = ['1_Heterochromatin',
           '8_Weak_Enhancer',
           '9_Weak_Txn',
           '10_Txn_elongation']
-          
-!head HUVEC_10_dense.bed
+```
 
+```bash
+!head HUVEC_10_dense.bed
+``
+``
+```python
 with open('HUVEC_10_dense.bed','r') as f:
   lines = f.readlines()
   with open('HUVEC_10_dense_edited.bed','w') as new_f:
@@ -87,7 +91,10 @@ with open('HUVEC_10_dense.bed','r') as f:
       N = int(line[3]) - 1
       line[3] = annotation[N]
       new_f.write('\t'.join(line))
-  
+````
+
+````bash
 !head HUVEC_10_dense_edited.bed
 ```
+
 <img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/states_with_annotation.png" width="700" height="600">
