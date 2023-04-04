@@ -51,6 +51,6 @@
 | 5_Active_Promoter | H2AZ, H3K4me3, H3K9ac, H3K27ac, H3K4me1, H3K4me2, H3K79me2 | CpG-островки, экзоны, TSS, TES и TSSkb |<img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/5.png" width="500" height="250"> |
 | 6_Strong_Enhancer | H2AZ, H3K9ac, H3K27ac, H3K4me1, H3K4me2 | Ядерная ламина, TES |<img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/6.png" width="500" height="250"> |
 | 7_Weak_Enhancer | H3K4me1 | Ядерная ламина, TES | <img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/7.png" width="500" height="250"> |
-| 8 | H3K4me1, HeK79me2 | Гены |<img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/8.png" width="500" height="250"> |
-| 9 | HeK79me2 | Гены |<img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/9.png" width="500" height="250"> |
+| 8_Weak_Enhancer | H3K4me1, HeK79me2 | Гены |<img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/8.png" width="500" height="250"> |
+| 9_Weak_Txn | HeK79me2 | Гены |<img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/9.png" width="500" height="250"> |
 | 10_Txn_elongation | Очень слабо выражен в H3K36me3 | Экзоны, гены, TES|<img src="https://github.com/KirillMatirko/hse_hw3_chromhmm/blob/main/pics/10.png" width="500" height="250"> |
